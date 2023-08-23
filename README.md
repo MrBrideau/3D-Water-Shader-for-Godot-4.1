@@ -1,4 +1,4 @@
-# 3D-Water-Shader-for-Godot-4.1
+# 3D Water Shader for Godot 4.1
 
 Makes a 3D mesh behave like water.
 
