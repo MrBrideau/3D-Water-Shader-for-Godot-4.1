@@ -1,3 +1,7 @@
+/* 
+    This work is licensed under a Creative Commons Attribution 3.0 Unported License.
+    So you are free to share, modify and adapt it for your needs, and even use it for commercial use.
+*/
 shader_type spatial;
 render_mode blend_mix, specular_schlick_ggx, cull_disabled, shadows_disabled;
 uniform sampler2D DEPTH_TEXTURE : hint_depth_texture, filter_linear_mipmap;
